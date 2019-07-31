@@ -4,3 +4,4 @@ EOF_Varianz.ipynb: File für das Plotten der EOF's sowie der erklärten Varianz
 Validierung: Hauptfile, Berechnung des RMSE und BIAS
 valid_summer.ipynb: File für die Berchnung der RMSE und BIAS im Sommer
 valid_winter.ipynb: File für die Berchnung der RMSE und BIAS im Winter
+Anomalien: File für die Berechnugn der normierten Anomalien
