@@ -1,0 +1,6 @@
+Analoga_ranked_pro_TD.nc: Datei mit den berechneten Analoga
+EOF_Analyse.py: Hauptfile, mit Code für die Berechnugn der Anomalien, EOF und Finden der Analoga
+EOF_Varianz.ipynb: File für das Plotten der EOF's sowie der erklärten Varianz
+Validierung: Hauptfile, Berechnung des RMSE und BIAS
+valid_summer.ipynb: File für die Berchnung der RMSE und BIAS im Sommer
+valid_winter.ipynb: File für die Berchnung der RMSE und BIAS im Winter
